@@ -1,0 +1,10 @@
+https://phoenixnap.com/kb/update-node-js-version
+===================================
+npm cache clean -f
+
+npm install -g n
+
+
+===============
+https://hosting.review/tutorial/how-to-update-node/
+npm install npm@latest -g
